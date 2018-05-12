@@ -1,0 +1,27 @@
+_repo: Familiar-Quotations_16732
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Bartlett, John
+    birthdate: 1820
+    deathdate: 1905
+    gutenberg_agent_id: '6896'
+    url: http://www.gutenberg.org/2009/agents/6896
+    wikipedia: http://en.wikipedia.org/wiki/John_Bartlett_%28publisher%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PN'
+title: Familiar Quotations
+url: http://www.gutenberg.org/ebooks/16732
